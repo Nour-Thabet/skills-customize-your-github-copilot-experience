@@ -79,5 +79,25 @@
         }
       ]
     }
+    ,
+    {
+      "id": "modular-game",
+      "title": "Jeu Python modulaire",
+      "description": "Concevoir un jeu modulaire en Python : architecture, tests et workflow collaboratif.",
+      "path": "assignments/games-in-python/modular-game",
+      "dueDate": "2026-08-01",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Tests",
+          "file": "tests/test_game.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
